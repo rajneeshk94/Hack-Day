@@ -45,6 +45,11 @@
          "image_link": "https://joeschmoe.io/api/v1/c",
          "handle": "Aditya Negandhi",
          "message": "open source contribution is fun!"
+      },
+      {
+         "image_link": "https://placeit.net/d56de933627cc5",
+         "handle": "rajneeshk94",
+         "message": "Glad to have started with this PR!"
       }
    ]
 }
